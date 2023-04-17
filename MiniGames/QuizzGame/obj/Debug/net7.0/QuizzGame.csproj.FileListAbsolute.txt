@@ -1,0 +1,15 @@
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\bin\Debug\net7.0\QuizzGame.exe
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\bin\Debug\net7.0\QuizzGame.deps.json
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\bin\Debug\net7.0\QuizzGame.runtimeconfig.json
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\bin\Debug\net7.0\QuizzGame.dll
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\bin\Debug\net7.0\QuizzGame.pdb
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\QuizzGame.csproj.AssemblyReference.cache
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\QuizzGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\QuizzGame.AssemblyInfoInputs.cache
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\QuizzGame.AssemblyInfo.cs
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\QuizzGame.csproj.CoreCompileInputs.cache
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\QuizzGame.dll
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\refint\QuizzGame.dll
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\QuizzGame.pdb
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\QuizzGame.genruntimeconfig.cache
+D:\15 Proyecto C Sharp\Proyecto3 Propio\QuizzGame\obj\Debug\net7.0\ref\QuizzGame.dll

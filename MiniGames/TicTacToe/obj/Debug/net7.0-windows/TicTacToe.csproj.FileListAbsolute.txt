@@ -1,0 +1,17 @@
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.exe
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.deps.json
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.runtimeconfig.json
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.dll
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.pdb
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.csproj.AssemblyReference.cache
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.Form1.resources
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.csproj.GenerateResource.cache
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.AssemblyInfoInputs.cache
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.AssemblyInfo.cs
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.dll
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\refint\TicTacToe.dll
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.pdb
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.genruntimeconfig.cache
+D:\15 Proyecto C Sharp\Proyecto10 Propio\TicTacToe\obj\Debug\net7.0-windows\ref\TicTacToe.dll

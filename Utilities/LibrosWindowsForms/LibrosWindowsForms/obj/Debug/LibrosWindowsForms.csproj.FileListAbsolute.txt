@@ -1,0 +1,21 @@
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\bin\Debug\LibrosWindowsForms.exe.config
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\bin\Debug\LibrosWindowsForms.exe
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\bin\Debug\LibrosWindowsForms.pdb
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.Form1.resources
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.FormEditar.resources
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.Properties.Resources.resources
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.csproj.GenerateResource.cache
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.exe
+C:\Users\nacho\source\repos\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.pdb
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\bin\Debug\LibrosWindowsForms.exe.config
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\bin\Debug\LibrosWindowsForms.exe
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\bin\Debug\LibrosWindowsForms.pdb
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.csproj.AssemblyReference.cache
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.csproj.SuggestedBindingRedirects.cache
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.Form1.resources
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.FormEditar.resources
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.Properties.Resources.resources
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.csproj.GenerateResource.cache
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.csproj.CoreCompileInputs.cache
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.exe
+D:\Programacion en C#\Seccion19 Intro a Windows Forms\Final LibrosWindowsForms\LibrosWindowsForms\LibrosWindowsForms\obj\Debug\LibrosWindowsForms.pdb

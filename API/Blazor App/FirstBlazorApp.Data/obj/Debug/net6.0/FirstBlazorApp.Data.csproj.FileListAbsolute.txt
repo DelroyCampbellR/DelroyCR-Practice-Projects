@@ -1,0 +1,15 @@
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Data.deps.json
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Data.dll
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Data.pdb
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Shared.dll
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Shared.pdb
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.csproj.AssemblyReference.cache
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.AssemblyInfoInputs.cache
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.AssemblyInfo.cs
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.csproj.CoreCompileInputs.cache
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.csproj.CopyComplete
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.dll
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\refint\FirstBlazorApp.Data.dll
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.pdb
+D:\15 Proyecto C Sharp\Proyecto15 Blazor App\FirstBlazorApp.Data\obj\Debug\net6.0\ref\FirstBlazorApp.Data.dll

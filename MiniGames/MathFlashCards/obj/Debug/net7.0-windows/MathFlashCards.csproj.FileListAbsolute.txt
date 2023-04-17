@@ -1,0 +1,17 @@
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\bin\Debug\net7.0-windows\MathFlashCards.exe
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\bin\Debug\net7.0-windows\MathFlashCards.deps.json
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\bin\Debug\net7.0-windows\MathFlashCards.runtimeconfig.json
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\bin\Debug\net7.0-windows\MathFlashCards.dll
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\bin\Debug\net7.0-windows\MathFlashCards.pdb
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.csproj.AssemblyReference.cache
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.Form1.resources
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.csproj.GenerateResource.cache
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.GeneratedMSBuildEditorConfig.editorconfig
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.AssemblyInfoInputs.cache
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.AssemblyInfo.cs
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.csproj.CoreCompileInputs.cache
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.dll
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\refint\MathFlashCards.dll
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.pdb
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\MathFlashCards.genruntimeconfig.cache
+D:\15 Proyecto C Sharp\Proyecto9 Propio\MathFlashCards\obj\Debug\net7.0-windows\ref\MathFlashCards.dll

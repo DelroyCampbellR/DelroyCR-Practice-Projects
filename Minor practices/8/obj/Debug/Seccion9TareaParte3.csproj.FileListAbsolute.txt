@@ -1,0 +1,8 @@
+D:\Curso Programacion en C sharp\Seccion9TareaParte3\bin\Debug\Seccion9TareaParte3.exe.config
+D:\Curso Programacion en C sharp\Seccion9TareaParte3\bin\Debug\Seccion9TareaParte3.exe
+D:\Curso Programacion en C sharp\Seccion9TareaParte3\bin\Debug\Seccion9TareaParte3.pdb
+D:\Curso Programacion en C sharp\Seccion9TareaParte3\obj\Debug\Seccion9TareaParte3.csproj.AssemblyReference.cache
+D:\Curso Programacion en C sharp\Seccion9TareaParte3\obj\Debug\Seccion9TareaParte3.csproj.SuggestedBindingRedirects.cache
+D:\Curso Programacion en C sharp\Seccion9TareaParte3\obj\Debug\Seccion9TareaParte3.csproj.CoreCompileInputs.cache
+D:\Curso Programacion en C sharp\Seccion9TareaParte3\obj\Debug\Seccion9TareaParte3.exe
+D:\Curso Programacion en C sharp\Seccion9TareaParte3\obj\Debug\Seccion9TareaParte3.pdb

@@ -1,0 +1,15 @@
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.exe
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.deps.json
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.runtimeconfig.json
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.dll
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.pdb
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.csproj.AssemblyReference.cache
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.AssemblyInfoInputs.cache
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.AssemblyInfo.cs
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.dll
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\refint\GuessTheNumber.dll
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.pdb
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.genruntimeconfig.cache
+D:\15 Proyecto C Sharp\Proyecto2 Propio\GuessTheNumber\obj\Debug\net7.0\ref\GuessTheNumber.dll

@@ -1,0 +1,25 @@
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/bin/Debug/netcoreapp3.0/EjemploDiccionarios
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/bin/Debug/netcoreapp3.0/EjemploDiccionarios.deps.json
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/bin/Debug/netcoreapp3.0/EjemploDiccionarios.runtimeconfig.json
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/bin/Debug/netcoreapp3.0/EjemploDiccionarios.runtimeconfig.dev.json
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/bin/Debug/netcoreapp3.0/EjemploDiccionarios.dll
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/bin/Debug/netcoreapp3.0/EjemploDiccionarios.pdb
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/obj/Debug/netcoreapp3.0/EjemploDiccionarios.csprojAssemblyReference.cache
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/obj/Debug/netcoreapp3.0/EjemploDiccionarios.AssemblyInfoInputs.cache
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/obj/Debug/netcoreapp3.0/EjemploDiccionarios.AssemblyInfo.cs
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/obj/Debug/netcoreapp3.0/EjemploDiccionarios.dll
+/Users/nacho/Projects/EjemploDiccionarios/EjemploDiccionarios/obj/Debug/netcoreapp3.0/EjemploDiccionarios.pdb
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\bin\Debug\netcoreapp3.0\EjemploDiccionarios.exe
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\bin\Debug\netcoreapp3.0\EjemploDiccionarios.deps.json
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\bin\Debug\netcoreapp3.0\EjemploDiccionarios.runtimeconfig.json
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\bin\Debug\netcoreapp3.0\EjemploDiccionarios.runtimeconfig.dev.json
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\bin\Debug\netcoreapp3.0\EjemploDiccionarios.dll
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\bin\Debug\netcoreapp3.0\EjemploDiccionarios.pdb
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\obj\Debug\netcoreapp3.0\EjemploDiccionarios.csproj.AssemblyReference.cache
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\obj\Debug\netcoreapp3.0\EjemploDiccionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\obj\Debug\netcoreapp3.0\EjemploDiccionarios.AssemblyInfoInputs.cache
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\obj\Debug\netcoreapp3.0\EjemploDiccionarios.AssemblyInfo.cs
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\obj\Debug\netcoreapp3.0\EjemploDiccionarios.csproj.CoreCompileInputs.cache
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\obj\Debug\netcoreapp3.0\EjemploDiccionarios.dll
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\obj\Debug\netcoreapp3.0\EjemploDiccionarios.pdb
+D:\Programacion en C#\Seccion7 Memoria Dinamica\Ejemplos_Tema7_parteII Diccionarios completo\EjemploDiccionarios\EjemploDiccionarios\obj\Debug\netcoreapp3.0\EjemploDiccionarios.genruntimeconfig.cache

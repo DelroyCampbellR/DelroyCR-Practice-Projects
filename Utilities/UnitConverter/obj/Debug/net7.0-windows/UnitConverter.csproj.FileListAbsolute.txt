@@ -1,0 +1,17 @@
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\bin\Debug\net7.0-windows\UnitConverter.exe
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\bin\Debug\net7.0-windows\UnitConverter.deps.json
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\bin\Debug\net7.0-windows\UnitConverter.runtimeconfig.json
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\bin\Debug\net7.0-windows\UnitConverter.dll
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\bin\Debug\net7.0-windows\UnitConverter.pdb
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.csproj.AssemblyReference.cache
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.Form1.resources
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.csproj.GenerateResource.cache
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.AssemblyInfoInputs.cache
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.AssemblyInfo.cs
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.csproj.CoreCompileInputs.cache
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.dll
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\refint\UnitConverter.dll
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.pdb
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\UnitConverter.genruntimeconfig.cache
+D:\15 Proyecto C Sharp\Proyecto6 Propio\UnitConverter\obj\Debug\net7.0-windows\ref\UnitConverter.dll

@@ -1,0 +1,8 @@
+D:\Curso Programacion en C sharp\Seccion11Tarea\bin\Debug\Seccion11Tarea.exe.config
+D:\Curso Programacion en C sharp\Seccion11Tarea\bin\Debug\Seccion11Tarea.exe
+D:\Curso Programacion en C sharp\Seccion11Tarea\bin\Debug\Seccion11Tarea.pdb
+D:\Curso Programacion en C sharp\Seccion11Tarea\obj\Debug\Seccion11Tarea.csproj.AssemblyReference.cache
+D:\Curso Programacion en C sharp\Seccion11Tarea\obj\Debug\Seccion11Tarea.csproj.SuggestedBindingRedirects.cache
+D:\Curso Programacion en C sharp\Seccion11Tarea\obj\Debug\Seccion11Tarea.csproj.CoreCompileInputs.cache
+D:\Curso Programacion en C sharp\Seccion11Tarea\obj\Debug\Seccion11Tarea.exe
+D:\Curso Programacion en C sharp\Seccion11Tarea\obj\Debug\Seccion11Tarea.pdb

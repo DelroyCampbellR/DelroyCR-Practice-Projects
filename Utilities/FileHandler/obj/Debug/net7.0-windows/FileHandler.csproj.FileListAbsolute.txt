@@ -1,0 +1,17 @@
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\bin\Debug\net7.0-windows\FileHandler.exe
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\bin\Debug\net7.0-windows\FileHandler.deps.json
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\bin\Debug\net7.0-windows\FileHandler.runtimeconfig.json
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\bin\Debug\net7.0-windows\FileHandler.dll
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\bin\Debug\net7.0-windows\FileHandler.pdb
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.csproj.AssemblyReference.cache
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.Form1.resources
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.csproj.GenerateResource.cache
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.AssemblyInfoInputs.cache
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.AssemblyInfo.cs
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.csproj.CoreCompileInputs.cache
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.dll
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\refint\FileHandler.dll
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.pdb
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\FileHandler.genruntimeconfig.cache
+D:\15 Proyecto C Sharp\Proyecto4 Propio\FileHandler\obj\Debug\net7.0-windows\ref\FileHandler.dll

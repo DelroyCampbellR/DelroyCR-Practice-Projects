@@ -1,0 +1,15 @@
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.exe
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.deps.json
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.runtimeconfig.json
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.dll
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.pdb
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.AssemblyReference.cache
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfoInputs.cache
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfo.cs
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.dll
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\refint\RockPaperScissors.dll
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.pdb
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.genruntimeconfig.cache
+D:\15 Proyecto C Sharp\Proyecto1 Propio\RockPaperScissors\obj\Debug\net7.0\ref\RockPaperScissors.dll

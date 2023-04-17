@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ywgEyPCzF0YFYngHh25zN1JAHdk0MAK3nI6f7GkEnjqTfI358tuZi1MZXTJ8OywG23dmdsuty4Ai77nozt4HQ==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\DelroyCR-Practice-Projects\\API\\Blazor App\\FirstBlazorApp.Data\\FirstBlazorApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alcark\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

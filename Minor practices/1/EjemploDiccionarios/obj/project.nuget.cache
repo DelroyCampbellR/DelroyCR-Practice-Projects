@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rd+V3QP/7Uv7gHG9sXqsSMCXuY3N8N012VnNvwgE9dxef5bwlTS4kYwJNSnPZo9xU/AmTTqoSa4E3jR1FTpB6A==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\DelroyCR-Practice-Projects\\Minor practices\\EjemploDiccionarios\\EjemploDiccionarios\\EjemploDiccionarios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alcark\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alcark\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alcark\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Alcark\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

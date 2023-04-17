@@ -1,0 +1,8 @@
+D:\Curso Programacion en C sharp\Tarea6\bin\Debug\Tarea6.exe.config
+D:\Curso Programacion en C sharp\Tarea6\bin\Debug\Tarea6.exe
+D:\Curso Programacion en C sharp\Tarea6\bin\Debug\Tarea6.pdb
+D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.csproj.AssemblyReference.cache
+D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.csproj.SuggestedBindingRedirects.cache
+D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.csproj.CoreCompileInputs.cache
+D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.exe
+D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.pdb
