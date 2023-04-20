@@ -12,44 +12,43 @@ namespace Tarea6
         {
 
             byte i, j, numAlumnos, salones;
-            double sumaCalif = 0, sumaCalifSalon, totalAlumnos = 0, promedio, califMin = 10, califMax = 0;
+            double sumaCalif = 0, sumaCalifSalon, totalAlumnos = 0, promedio, califMin = 100, califMax = 0;
 
-            Console.Write("Ingrese el número de salones: ");
+            Console.WriteLine("Ingrese el número de salones: ");
             salones = Convert.ToByte(Console.ReadLine());
 
-            double[][] calificaciones = new double[salones][]; 
+            double[][] calificaciones = new double[salones][];
             Console.WriteLine();
 
             for (i = 0; i < salones; i++)
             {
-                Console.Write("Ingrese el número de alumnos para el salón {0}: ", i);
-                numAlumnos = Convert.ToByte(Console.ReadLine());
+                Console.WriteLine("Ingrese el número de alumnos para el salón {0}", i + 1);
+                {
+                    numAlumnos = Convert.ToByte(Console.ReadLine());
+                    totalAlumnos += numAlumnos;
 
-                totalAlumnos += numAlumnos;
-
-                calificaciones[i] = new double[numAlumnos];
+                    calificaciones[i] = new double[numAlumnos];
+                }
             }
 
-            double[] califMinSalon = new double[salones];
+            double[] califMinSalon = new double[salones]; 
             double[] califMaxSalon = new double[salones];
             double[] promedioSalon = new double[salones];
 
             for (i = 0; i < salones; i++)
             {
-
                 sumaCalifSalon = 0;
                 califMax = 0;
-                califMin = 10;
+                califMin = 100;
 
                 Console.WriteLine();
-                Console.WriteLine("Salón {0}", i);
+                Console.WriteLine($"Salon {i + 1}");
                 for (j = 0; j < calificaciones[i].Length; j++)
                 {
-                    Console.WriteLine("Ingresa la calificación del alumno {0}: ", j);
+                    Console.WriteLine("Ingresa la calificación del alumno {0}", j + 1);
                     calificaciones[i][j] = Convert.ToDouble(Console.ReadLine());
 
-                    sumaCalif += calificaciones[i][j]; 
-
+                    sumaCalif += calificaciones[i][j];
                     sumaCalifSalon += calificaciones[i][j];
 
                     if (calificaciones[i][j] < califMin)
@@ -67,8 +66,7 @@ namespace Tarea6
                     califMaxSalon[i] = califMax;
                 }
 
-                promedioSalon[i] = sumaCalifSalon / calificaciones[i].Length; 
-
+                promedioSalon[i] = sumaCalifSalon / calificaciones[i].Length;
             }
 
             promedio = sumaCalif / totalAlumnos;
@@ -90,37 +88,32 @@ namespace Tarea6
             }
 
             Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine("¡Datos de la escuela!");
-            Console.WriteLine();
+            Console.WriteLine("Datos de la escuela!");
             Console.WriteLine();
 
-            
             for (i = 0; i < salones; i++)
             {
                 Console.WriteLine();
-                Console.WriteLine("Salón {0}", i);
+                Console.WriteLine("Salón {0}", i + 1);
                 for (j = 0; j < calificaciones[i].Length; j++)
                 {
-
-                    Console.WriteLine("El alumno {0}, tiene {1} de calificación.", j, calificaciones[i][j]);
+                    Console.WriteLine($"El alumno {j + 1}, tiene {calificaciones[i][j]} de calificación.");
                 }
                 Console.WriteLine();
             }
-        
+
             for (i = 0; i < salones; i++)
             {
-                Console.WriteLine("Información del salón {0}", i);
-                Console.WriteLine("Calificación máxima: {0}, calificación mínima: {1}", califMaxSalon[i], califMinSalon[i]);
+                Console.WriteLine("Información del salón {0}", i + 1);
+                Console.WriteLine("Calificación máxima: {0} calificación mínima: {1}", califMaxSalon[i], califMinSalon[i]);
                 Console.WriteLine("Promedio: {0}", promedioSalon[i]);
             }
 
             Console.WriteLine();
 
-            Console.WriteLine();
-            Console.WriteLine("El promedio total de la escuela es: {0}", promedio);
-            Console.WriteLine("La calificación mínima de la escuela es: {0}", califMin);
-            Console.WriteLine("La calificación máxima de la escuela es: {0}", califMax);
+            Console.WriteLine("El promedio total de la escuela es: {0}", promedio.ToString("F2"));
+            Console.WriteLine($"La calificación mínima de la escuela es: {califMin}");
+            Console.WriteLine($"La calificación máxima de la escuela es: {califMax}");
         }
     }
 }

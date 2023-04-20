@@ -6,3 +6,11 @@ D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.csproj.SuggestedBinding
 D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.csproj.CoreCompileInputs.cache
 D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.exe
 D:\Curso Programacion en C sharp\Tarea6\obj\Debug\Tarea6.pdb
+C:\GitHub\DelroyCR-Practice-Projects\Minor practices\4\bin\Debug\Tarea6.exe.config
+C:\GitHub\DelroyCR-Practice-Projects\Minor practices\4\bin\Debug\Tarea6.exe
+C:\GitHub\DelroyCR-Practice-Projects\Minor practices\4\bin\Debug\Tarea6.pdb
+C:\GitHub\DelroyCR-Practice-Projects\Minor practices\4\obj\Debug\Tarea6.csproj.AssemblyReference.cache
+C:\GitHub\DelroyCR-Practice-Projects\Minor practices\4\obj\Debug\Tarea6.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\DelroyCR-Practice-Projects\Minor practices\4\obj\Debug\Tarea6.csproj.CoreCompileInputs.cache
+C:\GitHub\DelroyCR-Practice-Projects\Minor practices\4\obj\Debug\Tarea6.exe
+C:\GitHub\DelroyCR-Practice-Projects\Minor practices\4\obj\Debug\Tarea6.pdb
