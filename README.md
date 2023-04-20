@@ -1,2 +1,2 @@
 # DCR Projects
- Personal projects (C#, WF, Entity, Dapper, SQL, Blazor, API, Unity)
+ Personal projects (C#, WF, Entity, Dapper, SQL, Blazor, API, Unity, HTML, CSS)
